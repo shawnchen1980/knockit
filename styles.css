@@ -1,0 +1,21 @@
+@import "./app/header.css";
+
+span {
+    color: green;
+}
+
+.myclass {
+  color: red;
+}
+.completed{
+  color:green;
+}
+.incompleted{
+  color:red;
+}
+.invisible{
+  display:none
+}
+.visible {
+  
+}

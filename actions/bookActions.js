@@ -1,0 +1,1 @@
+export const addBook=(book)=>({type:"post",payload:book});
